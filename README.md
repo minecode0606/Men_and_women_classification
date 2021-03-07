@@ -11,4 +11,4 @@
 아래 산점도처럼 남성과 여성의 키와 몸무개가 거의 비슷한바람에 knn이
 적합하지 않다고 판단이 들었다. 그리하여 추후 이 문제를 해결할수 있는 알고리즘을
 배운다면 그떄 이 프로젝트는 제기될 것이다.
-
+<img src = "https://github.com/minecode0606/Men_and_women_classification/blob/main/break.png">
